@@ -37,7 +37,7 @@ The two approaches in this study:
 |---------------------|-------------------------------------|-----------------------|
 | Complexity          | Simple                              | High                  |
 | Interpretability    | Easy to understand                  | Harder to interpret   |
-| Performance         | Works well for linear relationships | Harder to interpret   |
-| Computational Cost  | Easy to understand| Harder to interpret   |
+| Performance         | Works well for linear relationships | Handles non-linear relationships   |
+| Computational Cost  | Low                                 | High                  |
 
 
