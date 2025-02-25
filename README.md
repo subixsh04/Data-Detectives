@@ -33,9 +33,11 @@ The two approaches in this study:
 
 ### Linear Regression vs Neural Networks
 
-| Feature           | Linear Regression | Neural Networks       |
-|-------------------|-------------------|-----------------------|
-| Complexity        | Simple            | High                  |
-| Interpretability  | Easy to understand| Harder to interpret   |
+| Feature             | Linear Regression                   | Neural Networks       |
+|---------------------|-------------------------------------|-----------------------|
+| Complexity          | Simple                              | High                  |
+| Interpretability    | Easy to understand                  | Harder to interpret   |
+| Performance         | Works well for linear relationships | Harder to interpret   |
+| Computational Cost  | Easy to understand| Harder to interpret   |
 
 
