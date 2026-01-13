@@ -2,7 +2,7 @@
 
 ## Authors
 - Anuja Alluri
-- Makaela Sellers
+- Makaela Bennett
 - Subiksha Vaidhyanathan
 - Varshitha Thanam
 
